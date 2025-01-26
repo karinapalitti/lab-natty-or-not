@@ -18,3 +18,4 @@ por ser uma ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
 O projeto apresenta um e-book contendo informações sobre educação financeira para adolescentes, com uma linguagem fácil de entender, voltada para o público a que se destina.
+Link do e-book aqui: https://github.com/karinapalitti/lab-natty-or-not/blob/main/e-book_grana_na_m%C3%A3o.pdf
